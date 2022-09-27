@@ -1,0 +1,2 @@
+model,test_accuracy
+svm_rbf,0.94

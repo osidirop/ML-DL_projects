@@ -1,0 +1,2 @@
+model,test_accuracy
+svm_linear,0.92
